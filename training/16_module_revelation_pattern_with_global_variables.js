@@ -1,0 +1,3 @@
+MYAPP.utilities.module = (function( app, global ) {
+	// ....
+}( MYAPP, this ) );
